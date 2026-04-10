@@ -34,6 +34,10 @@
 
 # n8n-nodes-surrealdb
 
+> **About this package**
+>
+> `@kushal297/n8n-nodes-surrealdb` is a fork of the official [`@surrealdb/n8n-nodes-surrealdb`](https://www.npmjs.com/package/@surrealdb/n8n-nodes-surrealdb) published while a pull request for SurrealDB server v3 support ([surrealdb/n8n-nodes-surrealdb#6](https://github.com/surrealdb/n8n-nodes-surrealdb/pull/6)) is pending review upstream. Once the upstream package ships with v3 support, switch back to the official `@surrealdb/n8n-nodes-surrealdb` package.
+
 The official n8n node for SurrealDB. It provides both action and tool nodes to interact with a SurrealDB database, allowing you to create, read, update, and delete records, as well as execute custom SurrealQL queries.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
